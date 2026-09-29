@@ -62,6 +62,5 @@ These exercises are part of my university coursework and provide practical exper
 
 **ShahramXTech**
 Software Engineering Student
-Air University, Kamra
 
 GitHub: [@MuhammadShahramTariq](https://github.com/MuhammadShahramTariq)
